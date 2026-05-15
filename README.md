@@ -1,4 +1,3 @@
-````html id="v82kqp"
 <h1 align="center">Hi 👋, I'm Thiago Carranza</h1>
 
 <h3 align="center">
@@ -140,7 +139,7 @@ class ThiagoCarranza:
     achievement = "ONIET 2025 - Full Game Winner"
 
     goal = "Become a Software Engineer"
-````
+
 
 <br>
 
