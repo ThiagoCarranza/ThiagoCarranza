@@ -1,4 +1,4 @@
-
+````html id="v82kqp"
 <h1 align="center">Hi 👋, I'm Thiago Carranza</h1>
 
 <h3 align="center">
@@ -26,12 +26,25 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Python, Linux, Android and MariaDB**
+- 🌱 Currently learning **Linux, Backend Development and System Administration**
+- 🐧 Arch Linux user
 - 💻 Interested in **Backend, Linux and Software Development**
+- 🛠 I also work with **Arduino**
+- 🏆 Winner at **ONIET 2025 - Full Game Category**
 - 🎯 Goal: Become a **Software Engineer**
 - 📫 Contact: **carranzathiago26@gmail.com**
 - 📷 Instagram: **@thiagoocarranza**
 - ⚡ Fun fact: Music 🎵 and coding late at night are my thing
+
+<br>
+
+## 💻 Setup
+
+- 🖥 CPU: **Ryzen 5 5500**
+- 🎮 GPU: **RX 6600**
+- 🧠 RAM: **16GB**
+- ⚡ Storage: **1TB SSD**
+- 🐧 OS: **Arch Linux / Windows 11**
 
 <br>
 
@@ -83,7 +96,51 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     alt="mariadb" width="40" height="40"/>
 
+  &nbsp;
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
+    alt="arduino" width="40" height="40"/>
+
 </p>
+
+<br>
+
+## 👨‍💻 About Me in Code
+
+```python
+class ThiagoCarranza:
+
+    age = 17
+    country = "Argentina"
+
+    operating_systems = [
+        "Arch Linux",
+        "Windows 11"
+    ]
+
+    languages = [
+        "Python",
+        "SQL"
+    ]
+
+    technologies = [
+        "Linux",
+        "Arduino",
+        "MariaDB",
+        "Android"
+    ]
+
+    hardware = {
+        "CPU": "Ryzen 5 5500",
+        "GPU": "RX 6600",
+        "RAM": "16GB",
+        "Storage": "1TB SSD"
+    }
+
+    achievement = "ONIET 2025 - Full Game Winner"
+
+    goal = "Become a Software Engineer"
+````
 
 <br>
 
@@ -91,16 +148,23 @@
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ThiagoCarranza26&show_icons=true&theme=github_dark"
-    height="165"/>
+<img
+ src="https://github-readme-stats.vercel.app/api?username=ThiagoCarranza26&show_icons=true&theme=github_dark"
+ height="165"/>
 
 </p>
 
 <p align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarranza26&layout=compact&theme=github_dark"/>
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarranza26&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img
+ src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarranza26&theme=github-dark"/>
 
 </p>
 ```
