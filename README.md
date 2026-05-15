@@ -59,8 +59,6 @@
       width="40" />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
-
   <a href="https://github.com/ThiagoCarranza26" target="_blank">
     <img align="center"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
@@ -80,66 +78,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python" width="40" height="40"/>
 
-  &nbsp;
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     alt="linux" width="40" height="40"/>
-
-  &nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
     alt="android" width="40" height="40"/>
 
-  &nbsp;
-
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     alt="mariadb" width="40" height="40"/>
-
-  &nbsp;
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
     alt="arduino" width="40" height="40"/>
 
 </p>
-
-<br>
-
-## 👨‍💻 About Me in Code
-
-```python
-class ThiagoCarranza:
-
-    age = 17
-    country = "Argentina"
-
-    operating_systems = [
-        "Arch Linux",
-        "Windows 11"
-    ]
-
-    languages = [
-        "Python",
-        "SQL"
-    ]
-
-    technologies = [
-        "Linux",
-        "Arduino",
-        "MariaDB",
-        "Android"
-    ]
-
-    hardware = {
-        "CPU": "Ryzen 5 5500",
-        "GPU": "RX 6600",
-        "RAM": "16GB",
-        "Storage": "1TB SSD"
-    }
-
-    achievement = "ONIET 2025 - Full Game Winner"
-
-    goal = "Become a Software Engineer"
-
 
 <br>
 
