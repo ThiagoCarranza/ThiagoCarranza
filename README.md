@@ -46,12 +46,12 @@
 
 <br>
 ---
+<img align="right" alt="GIF" height="170px"
+src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+### Spotify Playing 🎧
 
-### Youtube Music Playing 🎧
-
-[![YouTube Music](https://img.shields.io/badge/🎵%20Listening%20to-Olimpo%20--%20Milo%20J-red?style=for-the-badge)](https://music.youtube.com/)
+[![Spotify](https://img.shields.io/badge/🎵%20Listening%20to-Olimpo%20--%20Milo%20J-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 
 ---
 ## 🌐 Connect with me
@@ -81,47 +81,33 @@
 ## 🛠 Languages and Tools
 
 <p align="center">
+<a
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-    alt="python" width="40" height="40"/>
-</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-    alt="linux" width="40" height="40"/>
-</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
-    alt="android" width="40" height="40"/>
-</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-    alt="mariadb" width="40" height="40"/>
-</a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
-    alt="arduino" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mariadb" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg" alt="windows" width="40" height="40"/></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/></a>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Hyprland_logo.svg" alt="hyprland" width="40" height="40"/></a>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg" alt="spyder" width="40" height="40"/></a>
+
 </p>
+
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img
- src="https://github-readme-stats.vercel.app/api?username=ThiagoCarranza26&show_icons=true&theme=github_dark"
- height="165"/>
-
-</p>
-
-<p align="center">
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoCarranza26&layout=compact&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img
- src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoCarranza26&theme=github-dark"/>
-
-</p>
-```
