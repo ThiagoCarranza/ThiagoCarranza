@@ -28,7 +28,6 @@
 - 🌱 Currently learning **Linux, Backend Development and System Administration**
 - 🐧 Arch Linux user
 - 💻 Interested in **Backend, Linux and Software Development**
-- 🛠 I also work with **Arduino**
 - 🏆 Winner at **ONIET 2025 - Full Game Category**
 - 🎯 Goal: Become a **Software Engineer**
 - 📫 Contact: **carranzathiago26@gmail.com**
@@ -46,7 +45,15 @@
 - 🐧 OS: **Arch Linux / Windows 11**
 
 <br>
+---
 
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+### Youtube Music Playing 🎧
+
+[![YouTube Music](https://img.shields.io/badge/🎵%20Listening%20to-Olimpo%20--%20Milo%20J-red?style=for-the-badge)](https://music.youtube.com/)
+
+---
 ## 🌐 Connect with me
 
 <p align="left">
@@ -77,19 +84,19 @@
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
     alt="python" width="40" height="40"/>
-
+</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
     alt="linux" width="40" height="40"/>
-
+</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"
     alt="android" width="40" height="40"/>
-
+</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
     alt="mariadb" width="40" height="40"/>
-
+</a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"
     alt="arduino" width="40" height="40"/>
-
+</a>
 </p>
 
 <br>
