@@ -27,13 +27,12 @@
 
 - 🌱 Currently learning **Linux, Backend Development and System Administration**
 - 🐧 Arch Linux user
-- 💻 Interested in **Backend, Linux and Software Development**
-- 🏆 Winner at **ONIET 2025 - Full Game Category**
 - 🎯 Goal: Become a **Software Engineer**
 - 📫 Contact: **carranzathiago26@gmail.com**
 - 📷 Instagram: **@thiagoocarranza**
 - ⚡ Fun fact: Music 🎵 and coding late at night are my thing
-
+- 🏆 Winner at **ONIET 2025 - Full Game Category**
+  
 <br>
 
 ## 💻 Setup
