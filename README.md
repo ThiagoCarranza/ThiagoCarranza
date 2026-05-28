@@ -36,7 +36,7 @@
 - 🎮 GPU: **RX 6600**
 - 🧠 RAM: **16GB**
 - ⚡ Storage: **1TB SSD**
-- 🐧 OS: **Arch Linux / Windows 11**
+- 🐧 OS: **Arch Linux **
 
 <br>
 ---
